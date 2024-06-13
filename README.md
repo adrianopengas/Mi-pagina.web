@@ -93,7 +93,7 @@
                 <h2>Pensamiento del Día</h2>
                 <!-- Aquí se mostrará el último pensamiento del día -->
                 <div id="latestThought">
-                    <p>Este es el espacio donde puedo escribir mis pensamientos, reflexiones, y más. Cada día, compartiré algo nuevo aquí.</p>
+                    <p>Este es el espacio donde puedes escribir tus pensamientos, reflexiones, y más. Intenta cada día, compartir algo nuevo aquí.</p>
                 </div>
                 <!-- Formulario para ingresar nuevo pensamiento del día -->
                 <form id="thoughtForm">
